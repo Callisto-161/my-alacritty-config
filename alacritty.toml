@@ -1,0 +1,52 @@
+[window]
+
+startup_mode = "Maximized"
+
+padding.x = 10
+padding.y = 10
+
+decorations = "Full"
+
+[font]
+
+normal = { family = "Iosevka Nerd Font", style = "Medium" }
+
+size = 11.0
+
+offset = { x = 1, y = -1 }
+
+[cursor]
+
+style = { shape = "Underline", blinking = "Always" }
+blink_timeout = 0
+
+[colors.primary]
+
+background = "#000000"
+
+[colors.normal]
+
+black = "#000000"
+red = "#980003"
+green = "#00aa00"
+yellow = "#ddc300"
+blue = "#0000ca"
+magenta = "#c5009a"
+cyan = "#00d1d1"
+white = "#ffffff"
+
+[colors.bright]
+
+black = "#707070"
+red = "#ce0003"
+green = "#00ea00"
+yellow = "#ffff00"
+blue = "#0065d1"
+magenta = "#ff00c8"
+cyan = "#00ffff"
+white = "#ffffff"
+
+[keyboard]
+
+bindings = [{ key = "F11", action = "ToggleFullscreen"},]
+
