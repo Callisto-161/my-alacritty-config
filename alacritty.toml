@@ -13,7 +13,7 @@ normal = { family = "Iosevka Nerd Font", style = "Medium" }
 
 size = 11.0
 
-offset = { x = 1, y = -1 }
+offset = { x = 1, y = -2 }
 
 [cursor]
 
@@ -27,7 +27,7 @@ background = "#000000"
 [colors.normal]
 
 black = "#000000"
-red = "#980003"
+red = "#aa0002"
 green = "#00aa00"
 yellow = "#ddc300"
 blue = "#0000ca"
@@ -38,7 +38,7 @@ white = "#ffffff"
 [colors.bright]
 
 black = "#707070"
-red = "#ce0003"
+red = "#e00005"
 green = "#00ea00"
 yellow = "#ffff00"
 blue = "#0065d1"
@@ -49,4 +49,3 @@ white = "#ffffff"
 [keyboard]
 
 bindings = [{ key = "F11", action = "ToggleFullscreen"},]
-
